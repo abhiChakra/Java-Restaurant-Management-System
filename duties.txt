@@ -1,0 +1,16 @@
+*Note:Beyond these specific duties for each member, there was plenty of unofficial overlapping on the work done, as we
+each helped each other out quite a lot with programming tips, programming issues, debugging, bug fixes etc. Especially
+for phase2, items such as gui screens and javadocs were worked on as a group.
+
+Vinit Jogani: Overall GUI setup (navigation, Main.java, search), NewOrder, Pickup queue, Customers, Controller helper
+            classes (Serializer, InputDialogFactory, etc.), ObjectManager, InventoryManager, Home and EmployeeHome,
+            CSS styling, CustomCellFactory and SplitList setup.
+
+Steven Cuneo: Cook Order handling and GUI setup, restructuring code to be more object oriented, Table, TableManager,
+               DataManager, Data Visualizations, OrderManager
+
+Abhishek Chakraborty: LogManager, RequestsManager, MenuItem, Order, Ingredient, EmployeeManager, MenuManager, Bill,
+                      gui screens associates with EmployeeManager and MenuManager, closely testing overall program
+
+
+
